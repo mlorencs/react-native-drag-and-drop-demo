@@ -317,7 +317,6 @@ class App extends Component<IProps, IState> {
     this.flatListHeight = event.nativeEvent.layout.height;
   };
 
-  // Get FlatList item height
   /**
    * Get FlatList item height
    * @param event - LayoutChangeEvent
